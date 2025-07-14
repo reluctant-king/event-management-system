@@ -45,6 +45,8 @@
 
 6. Register a new account or use demo credentials (if available)
 
+7.Unzip the folder Vendor in the file ( " Check the chema diagram for clarification ")
+
 ---
 
 ## 📦 Manual Library Setup
